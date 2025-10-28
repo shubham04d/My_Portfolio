@@ -77,7 +77,7 @@ body {
 }
 
 section {
-    padding: 100px 0;
+    padding: 40px 0;
     position: relative;
 }
 
@@ -1440,6 +1440,7 @@ a:hover {
     background-color: var(--card-bg);
     position: relative;
     overflow: hidden;
+    padding: 10px;
 }
 
 .contact-section::before {
@@ -1546,7 +1547,7 @@ a:hover {
 }
 
 .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 0;
 }
 
 .form-label {
@@ -2392,7 +2393,7 @@ textarea.form-control {
     }
     
     .form-group {
-        margin-bottom: 15px;
+        margin-bottom: 0;
     }
     
     /* Update previous optimizations to include this */
